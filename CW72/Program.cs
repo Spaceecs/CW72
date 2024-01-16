@@ -4,6 +4,6 @@ Console.WriteLine(5 + 6);
 int a=0;
 for(int i=0;i<11;++i)
 {
-    Console.WriteLine(a);
+    Console.WriteLine(a+3);
     ++a;
 }
